@@ -14,7 +14,7 @@ class Welcome extends CI_Controller {
 	{
 		//$data['name'] = "Poramin";
 		//$data['email'] = "poramin0013@gmail.com";
-		$data['student'] = array("614259039","poramin","jumphom","Software Engineering");
+		$data['student'] = array("614259005","chuthamat","chanuchit","Software Engineering");
 		$this->load->view("hello_view",$data);
 		
 	}
